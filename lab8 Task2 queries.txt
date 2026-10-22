@@ -1,0 +1,10 @@
+lab8 Task2 queries: 
+
+95 ?- consult(['c:/Users/wasan/OneDrive - IMAM ABDULRAHMAN BIN FAISAL UNIVERSITY/Desktop/ARTI401 AI/AI Lab/lab8task2.pl']).
+true.
+
+96 ?- sumlist([1,2,5,7], Sum).
+Sum = 15.
+
+97 ?- sumlist([], Sum).
+Sum = 0.
